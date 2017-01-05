@@ -20,6 +20,7 @@
     "react-dom": "^0.14.8",
     "react-router": "^2.4.1",
     "webpack": "^1.12.4",
-    "webpack-dev-server": "^1.16.2"
+    "webpack-dev-server": "^1.16.2",
+    "webpack-server": "^0.1.2"
   }
 }
